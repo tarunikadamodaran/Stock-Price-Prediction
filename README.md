@@ -27,8 +27,8 @@ Evaluate the model and plot predictions.
 
 
 ## Program
-#### Name: Aadithya R
-#### Register Number: 212223240001
+#### Name: Tarunika D
+#### Register Number: 212223040227
 ```
 # Define RNN Model
 class RNNModel(nn.Module):
